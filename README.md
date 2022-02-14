@@ -18,7 +18,7 @@ Salve, sono Andrea, un Front-End developer junior con una forte passione per l'i
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/andrea-comparato-94537b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/andrea-comparato-94537b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrea%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:andreacomparato93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andreacomparato93@gmail.com-blue?style=flat-square&logo=gmail"></a>
 

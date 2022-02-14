@@ -12,6 +12,18 @@ Salve, sono Andrea, un Front-End developer con una forte passione per l'informat
 
 - 🔧 Git
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/andrea-comparato-94537b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:andreacomparato93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andreacomparato93@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
 <hr>
 
 <br/><br/>
@@ -26,36 +38,8 @@ Salve, sono Andrea, un Front-End developer con una forte passione per l'informat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr1k93&show_icons=true)
 
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/andrea-comparato-94537b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:andreacomparato93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andreacomparato93@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=andr1k93.andr1k93)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
 
 

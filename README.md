@@ -25,7 +25,6 @@ Salve, sono Andrea, un Front-End developer junior con una forte passione per l'i
 
 <hr>
 
-<br/><br/>
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andr1k93&show_icons=true)](https://github.com/https://github.com/Andr1k93)
 

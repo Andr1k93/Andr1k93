@@ -14,7 +14,6 @@ Salve, sono Andrea, un Front-End developer junior con una forte passione per l'i
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
 
 <p align="center">
 

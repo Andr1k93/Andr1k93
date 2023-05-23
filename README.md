@@ -3,12 +3,12 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-Salve, sono Andrea, un Front-End developer junior con una forte passione per l'informatica e i videogame. Dopo tanto tempo passato tra i libri, con una laurea alle spalle, ho deciso di coltivare la mia passione per l'informatica frequentando il corso Web Angular in Develhope. Questo mi ha dato delle ottime conoscenze che cercherò sempre di ampliare!
+Salve, sono Andrea, un Front-End developer junior con una forte passione per l'informatica e i videogame. Dopo tanto tempo passato tra i libri, con una laurea alle spalle, ho deciso di coltivare la mia passione per l'informatica frequentando il corso Web Angular in Develhope prima e un'academy full stack Java/Angular poi in Visioture. Questo mi ha dato delle ottime conoscenze che cercherò sempre di ampliare!
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
+- 🌐 &nbsp; Front-End: HTML | CSS | JavaScript | Bootstrap | Angular - Back-end: Java | Spring |MySQL
 
 - 🔧 Git
 

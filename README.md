@@ -3,7 +3,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-Salve, sono Andrea, un Full-Stack developer junior, con una forte passione per l'informatica e i videogame. Dopo tanto tempo passato tra i libri, con una laurea alle spalle, ho deciso di coltivare questa passione frequentando il corso Web Angular in Develhope e un'Academy full stack Java/Angular in Visioture. Questi mi hanno dato delle ottime conoscenze che cercherò sempre di ampliare!
+Salve, sono Andrea, un Full-Stack developer junior, con una forte passione per l'informatica e i videogame. Dopo tanto tempo passato tra i libri, con una laurea alle spalle, ho deciso di coltivare questa passione frequentando il corso Web Angular in Develhope e un'Academy full stack Java/Angular in Visioture. Grazie a questi ho acquisito delle ottime conoscenze che cercherò sempre di ampliare!
 
 <h3>🛠 Tech Stack</h3>
 

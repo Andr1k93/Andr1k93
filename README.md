@@ -40,6 +40,4 @@ Salve, sono Andrea, un Front-End developer junior con una forte passione per l'i
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=andr1k93.andr1k93)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 

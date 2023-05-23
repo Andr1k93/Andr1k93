@@ -9,7 +9,7 @@ Salve, sono Andrea, un Front-End developer junior con una forte passione per l'i
 
 
 - 🌐 &nbsp; Front-End: HTML | CSS | JavaScript | Bootstrap | Angular
-<br>
+- 
 - 🌐 &nbsp; Back-end: Java | Spring |MySQL
 
 
